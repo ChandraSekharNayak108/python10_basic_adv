@@ -1,0 +1,37 @@
+17/12/2021
+----------
+
+VCS:- Version Control System
+
+There 3 type of vcs.
+
+1.Local VCS:- 
+
+Local vcs are totaly depends upon backend database.It;s pull the fileor folder and also push it similarly,and main thing of local vcs it's track the data.It's a first concept who is introduce this type of  data fetching.
+
+corns:- If your local system is damage,then total data was destroyed, and we have no option to recover this data again.
+
+2:- we don't have any choice to share our data with any device.
+
+
+adv:Rollback is avialable 
+
+
+2.Centralized VCS:-
+
+Centralized VCS are totaly depends upon server,and main thing is many person are use at a time (push and pull.)
+
+dis_adv:- If server was damaged all data was deleted.
+
+3.Dstributed VCS:-
+
+DVCS are totally depends upon cloud,and every data are separted by each developer,If one side of cloud was crashed,so that no impaact in other data.
+
+web hosting?
+
+A web hosting service is type of internet hosting service that allows individuals and organization to make thier website accessiable via WWW.
+
+2.Web host are companies that proviode space on a sever leased for use bye client as we as providing internet connectivity typically in data center.
+
+
+
